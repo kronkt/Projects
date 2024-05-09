@@ -26,7 +26,7 @@ public class JediOut {
         }
 
         // loop to print Jedi information
-
+        for(int)
 
     }
 }
